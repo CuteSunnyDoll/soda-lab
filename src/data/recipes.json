@@ -1,0 +1,2170 @@
+[
+  {
+    "id": "classic-vanilla-cremosa",
+    "name": "經典香草雪頂意式蘇打",
+    "enName": "Classic Vanilla Cremosa (Torani Style)",
+    "style": "Torani 舊金山創始復刻風格",
+    "category": "cremosa",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.9,
+    "storePriceUsd": 5.75,
+    "homeCostUsd": 0.65,
+    "caloriesEst": 145,
+    "description": "1925 年舊金山 North Beach 意式咖啡館的元祖配方。醇厚馬達加斯加香草、清冽氣泡水與絲滑厚奶油在碎冰間翻滾，頂部擠上鮮打鮮奶油與一顆紅潤黑櫻桃。",
+    "bannerColor": "from-amber-400 via-orange-300 to-amber-100",
+    "emoji": "🍦",
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "人氣熱銷",
+      "招牌經典",
+      "奶香濃郁",
+      "復古蘇打"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani 法式香草糖漿",
+        "enName": "Torani French Vanilla Syrup",
+        "baseAmount": 4,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani French Vanilla Syrup 750ml",
+        "note": "4泵約 30ml / 1 oz",
+        "enNote": "4 pumps approx. 30ml / 1 oz"
+      },
+      {
+        "name": "冰鎮天然氣泡水 / 俱樂部蘇打",
+        "enName": "Chilled Club Soda / Sparkling Water",
+        "baseAmount": 260,
+        "unit": "ml",
+        "scalable": true,
+        "amazonSearchQuery": "San Pellegrino Sparkling Natural Mineral Water",
+        "note": "務必冷藏至 2-4°C",
+        "enNote": "Must be chilled to 2-4°C"
+      },
+      {
+        "name": "Half-and-Half 半乳鮮奶油 (或淡奶油)",
+        "enName": "Half-and-Half Cream (or Heavy Cream)",
+        "baseAmount": 30,
+        "unit": "ml",
+        "scalable": true,
+        "isCream": true,
+        "note": "乳脂含量 12%~36% 最佳",
+        "enNote": "12%-36% milk fat is optimal"
+      },
+      {
+        "name": "碎冰 / Pebble 顆粒冰",
+        "enName": "Pebble / Crushed Ice",
+        "baseAmount": 1,
+        "unit": "cup",
+        "scalable": false,
+        "note": "填滿杯子約 3/4",
+        "enNote": "Fill glass approx. 3/4 full"
+      },
+      {
+        "name": "手打噴射鮮奶油雪頂",
+        "enName": "Whipped Cream Topping",
+        "baseAmount": 2,
+        "unit": "tbsp",
+        "scalable": false,
+        "note": "頂部裝飾",
+        "enNote": "Top garnish"
+      },
+      {
+        "name": "Maraschino 馬拉斯奇諾櫻桃",
+        "enName": "Maraschino Cherry",
+        "baseAmount": 1,
+        "unit": "cherries",
+        "scalable": false,
+        "amazonSearchQuery": "Luxardo Original Maraschino Cherries",
+        "note": "點綴在雪頂中心",
+        "enNote": "Garnish in center of cream"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "泵入香草糖漿",
+        "instruction": "在 16oz 高球柯林杯底部精準壓入 4 泵 (約 30ml) Torani 法式香草糖漿。",
+        "durationSec": 10,
+        "tip": "先放糖漿再加冰，避免糖漿掛在冰塊表面溶解不均。",
+        "enTitle": "Pump Vanilla Syrup",
+        "enInstruction": "Pump 4 pumps (approx. 30ml / 1 oz) of Torani French Vanilla Syrup into the bottom of a 16oz highball glass.",
+        "enTip": "Syrup first, then ice, ensuring even dissolution without sticking to ice surfaces."
+      },
+      {
+        "stepNumber": 2,
+        "title": "填入八分滿碎冰",
+        "instruction": "將小顆粒碎冰 (Pebble Ice) 填入杯中至八分滿，讓冰塊成為液體溫度的緩衝屏障。",
+        "durationSec": 15,
+        "tip": "碎冰比大冰塊更容易與奶油產生絲絨般的懸浮視覺效果。",
+        "enTitle": "Fill with Pebble Ice",
+        "enInstruction": "Fill glass 3/4 full with pebble or crushed ice, creating a thermal buffer barrier.",
+        "enTip": "Pebble ice creates a stunning marbled suspension with the cream."
+      },
+      {
+        "stepNumber": 3,
+        "title": "慢速注入冷藏氣泡水",
+        "instruction": "將杯子傾斜 45 度，沿杯壁緩慢注入冰鎮氣泡水至離杯口約 2.5 公分處。",
+        "durationSec": 20,
+        "isTimer": true,
+        "tip": "切勿暴力沖注，溫柔傾倒可保留 90% 以上的碳酸沙口感！",
+        "enTitle": "Slowly Pour Sparkling Water",
+        "enInstruction": "Tilt glass 45° and gently pour chilled club soda down the inner wall until 1 inch from the rim.",
+        "enTip": "Pour gently to retain over 90% of the carbonation bubbles!"
+      },
+      {
+        "stepNumber": 4,
+        "title": "淋上絲滑奶油瀑布",
+        "instruction": "用吧勺背部抵住冰塊表面，將 30ml 鮮奶油緩緩淋在最頂部，欣賞雪白奶油如雲霧般向下漫延的壯麗分層。",
+        "durationSec": 15,
+        "tip": "香草糖漿酸度為中性，可直接淋入任何乳製品完全不會結塊。",
+        "enTitle": "Cascade Heavy Cream",
+        "enInstruction": "Place the back of a bar spoon against the top ice and slowly drizzle 30ml heavy cream over the spoon.",
+        "enTip": "Vanilla syrup is non-acidic and blends smoothly with dairy without curdling."
+      },
+      {
+        "stepNumber": 5,
+        "title": "飾以雪頂與櫻桃",
+        "instruction": "在杯口擠上一圈蓬鬆鮮奶油花，中央點綴一顆黑櫻桃，插上粗吸管即可呈上！",
+        "durationSec": 10,
+        "tip": "喝前用吸管上下輕輕抽動攪拌，感受綿密奶香與強烈氣泡的雙重暴擊。",
+        "enTitle": "Crown with Whipped Cream",
+        "enInstruction": "Top with a swirl of whipped cream and a Maraschino cherry in the center. Enjoy with a straw!",
+        "enTip": "Stir gently with a straw before drinking to blend bubbly fizz and rich cream."
+      }
+    ],
+    "secretTips": [
+      "溫度是意式蘇打的靈魂：氣泡水必須冰至接近 0°C，低溫下二氧化碳溶解度最高，氣泡感持久翻倍。",
+      "乳製品建議選擇 Half-and-Half (半鮮奶半淡奶油) 或 36% 動物性厚奶油，奶香更純厚，且質地比牛奶更不易消泡。"
+    ],
+    "equipmentNeeded": [
+      "16oz 高球柯林杯",
+      "Torani 定量壓頭",
+      "長柄吧勺",
+      "吸管"
+    ],
+    "enStyle": "Torani S.F. Original Style",
+    "enDescription": "The original 1925 San Francisco North Beach recipe. Rich Madagascar vanilla, crisp effervescent soda, and smooth heavy cream tumbling through crushed ice, topped with whipped cream and a ruby Maraschino cherry.",
+    "enSecretTips": [
+      "Temperature is the soul of Italian soda: sparkling water should be chilled near 0°C to maximize carbonation fizz.",
+      "Choose Half-and-Half or 36% heavy cream for a velvety marbled ribbon that floats effortlessly."
+    ]
+  },
+  {
+    "id": "peaches-and-cream",
+    "name": "蜜桃厚奶油意式蘇打",
+    "enName": "Peaches & Cream Cremosa",
+    "style": "經典意式水果雪融特飲",
+    "category": "cremosa",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.95,
+    "storePriceUsd": 5.85,
+    "homeCostUsd": 0.7,
+    "caloriesEst": 150,
+    "description": "夏日白桃蜜香與純厚鮮奶油的夢幻邂逅。粉嫩桃紅與乳白漸層交融，入口先是白桃爆汁般的清甜氣泡，隨後化為絲緞般的奶香。",
+    "bannerColor": "from-rose-300 via-pink-200 to-amber-100",
+    "emoji": "🍑",
+    "image": "https://images.unsplash.com/photo-1546173159-315724a31696?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "少女心爆棚",
+      "果香奶霜",
+      "高顏值漸層",
+      "夏日限定"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani / Monin 白桃糖漿",
+        "enName": "Peach Syrup",
+        "baseAmount": 4,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Peach Syrup 750ml",
+        "note": "4泵約 30ml",
+        "enNote": "4 pumps approx. 30ml"
+      },
+      {
+        "name": "冰鎮強烈氣泡水",
+        "enName": "Chilled Sparkling Water",
+        "baseAmount": 260,
+        "unit": "ml",
+        "scalable": true,
+        "amazonSearchQuery": "Perrier Carbonated Mineral Water",
+        "note": "冰鎮至 2-4°C",
+        "enNote": "Chill to 2-4°C"
+      },
+      {
+        "name": "高脂厚奶油 (Heavy Whipping Cream)",
+        "enName": "Heavy Cream",
+        "baseAmount": 30,
+        "unit": "ml",
+        "scalable": true,
+        "isCream": true,
+        "note": "高乳脂可防止果酸反應",
+        "enNote": "High fat prevents acid curdling"
+      },
+      {
+        "name": "滿杯碎冰塊",
+        "enName": "Crushed Ice",
+        "baseAmount": 1,
+        "unit": "cup",
+        "scalable": false
+      },
+      {
+        "name": "新鮮白桃切片",
+        "enName": "Fresh Peach Slice",
+        "baseAmount": 2,
+        "unit": "slices",
+        "scalable": false,
+        "note": "貼杯裝飾",
+        "enNote": "Garnish along inner rim"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "貼杯與糖漿打底",
+        "instruction": "將 2 片白桃薄片緊貼柯林杯內壁，於底部壓入 4 泵蜜桃糖漿。",
+        "durationSec": 15,
+        "tip": "貼壁水果能讓成品極具咖啡館主打特飲的精緻感。",
+        "enTitle": "Garnish Glass & Add Syrup",
+        "enInstruction": "Press 2 fresh peach slices against the inside of the glass and add 4 pumps peach syrup to the bottom.",
+        "enTip": "Pressed fruit creates an authentic café aesthetic."
+      },
+      {
+        "stepNumber": 2,
+        "title": "注冰至八分滿",
+        "instruction": "輕柔填入滿杯碎冰，固定住貼壁的水果片。",
+        "durationSec": 10,
+        "enTitle": "Pack with Crushed Ice",
+        "enInstruction": "Gently pack the glass 3/4 full with crushed ice to secure the fruit slices.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "慢注入氣泡水並微攪拌",
+        "instruction": "注入冰鎮氣泡水至 8 分滿，用吧勺將底部糖漿與氣泡水輕輕抽提兩次混合成淡粉色蜜桃蘇打。",
+        "durationSec": 15,
+        "tip": "提前讓糖漿與氣泡水混合，能大幅降低酸性濃度，防止下一步奶油結塊！",
+        "enTitle": "Add Soda & Stir Base",
+        "enInstruction": "Pour chilled sparkling water to 80% full. Use a bar spoon to stir the bottom syrup into the soda.",
+        "enTip": "Diluting syrup with soda reduces acidity and prevents cream from curdling!"
+      },
+      {
+        "stepNumber": 4,
+        "title": "漂浮厚奶油雪頂",
+        "instruction": "沿冰塊最頂部緩緩倒入 30ml 厚奶油，形成頂部奶白、底部透粉的絕美夕陽漸層。",
+        "durationSec": 15,
+        "enTitle": "Float Heavy Cream",
+        "enInstruction": "Slowly drizzle 30ml heavy cream over the top ice, creating a gorgeous sunset gradient.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "【避坑指南】桃子糖漿帶有微量果酸，請務必使用乳脂含量 30% 以上的厚奶油 (Heavy Cream)，並在加奶油前先將糖漿與氣泡水輕拌稀釋，絕對不會起豆腐花！"
+    ],
+    "equipmentNeeded": [
+      "高球玻璃杯",
+      "吧勺",
+      "壓頭",
+      "吸管"
+    ],
+    "enStyle": "Classic Summer Fruit Cremosa",
+    "enDescription": "A dream encounter of juicy summer white peach and thick cream. Pastel blush pink meets cascading cream clouds, opening with crisp bubbly peach sweetness and finishing with a velvety vanilla milk finish.",
+    "enSecretTips": [
+      "Curdle Prevention: Peach syrup contains mild fruit acidity. Always use heavy cream (30%+ fat) and stir syrup with soda before adding cream to prevent curdling!"
+    ]
+  },
+  {
+    "id": "raspberry-velvet-cremosa",
+    "name": "覆盆子紅絲絨奶霜蘇打",
+    "enName": "Raspberry Velvet Cremosa",
+    "style": "經典意式紅莓雪融特調",
+    "category": "cremosa",
+    "difficulty": "medium",
+    "prepTimeMin": 4,
+    "rating": 4.92,
+    "storePriceUsd": 5.95,
+    "homeCostUsd": 0.75,
+    "caloriesEst": 155,
+    "description": "覆盆子野莓特有的酸甜明亮與濃郁香草奶霜相碰撞。豔麗的深紅寶石色在純白奶油傾注的瞬間激發出紅絲絨大理石紋理，果香高揚不膩口。",
+    "bannerColor": "from-rose-500 via-pink-400 to-red-200",
+    "emoji": "🍇",
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "酸甜誘人",
+      "大理石紋理",
+      "覆盆子",
+      "下午茶必點"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani 覆盆子糖漿 (Raspberry)",
+        "enName": "Torani Raspberry Syrup",
+        "baseAmount": 3,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Raspberry Syrup 750ml",
+        "note": "酸甜紅寶石基底",
+        "enNote": "Sweet & tart ruby base"
+      },
+      {
+        "name": "Torani 香草糖漿 (Vanilla)",
+        "enName": "Torani Vanilla Syrup",
+        "baseAmount": 1,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "note": "1泵柔和覆盆子尖銳酸度",
+        "enNote": "1 pump to mellow sharp tartness"
+      },
+      {
+        "name": "強氣泡天然蘇打水",
+        "enName": "Club Soda",
+        "baseAmount": 260,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "Half-and-Half 半乳厚奶油",
+        "enName": "Half-and-Half Cream",
+        "baseAmount": 35,
+        "unit": "ml",
+        "scalable": true,
+        "isCream": true
+      },
+      {
+        "name": "新鮮紅樹莓 / 薄荷葉",
+        "enName": "Fresh Raspberries & Mint",
+        "baseAmount": 3,
+        "unit": "piece",
+        "scalable": false,
+        "note": "頂部裝飾",
+        "enNote": "Top garnish"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "雙風味糖漿黃金拼配",
+        "instruction": "杯底壓入 3 泵覆盆子糖漿 + 1 泵香草糖漿，香草能中和莓果微酸，使整體更圓潤飽滿。",
+        "durationSec": 15,
+        "enTitle": "Dual-Syrup Golden Ratio",
+        "enInstruction": "Pump 3 pumps Raspberry syrup + 1 pump Vanilla syrup into the glass.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "加冰與注水",
+        "instruction": "加滿碎冰，沿杯壁溫和注入冰氣泡水至 8 分滿。",
+        "durationSec": 20,
+        "enTitle": "Ice & Sparkling Soda",
+        "enInstruction": "Fill with crushed ice, then gently pour cold club soda along the glass wall to 80% full.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "微調混合底液",
+        "instruction": "用吧勺快速上下拉動 2 次使紅莓糖漿與氣泡水融合為透明深紅色液體。",
+        "durationSec": 10,
+        "enTitle": "Mix Base Soda",
+        "enInstruction": "Gently pull the bar spoon up and down twice to blend the syrup into a translucent ruby base.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 4,
+        "title": "頂部奶油流瀑",
+        "instruction": "將 35ml 半乳奶油對準冰塊正中輕緩傾倒，奶油會順著冰塊縫隙如絲綢般垂墜，呈現極致拉花大理石紋。",
+        "durationSec": 15,
+        "enTitle": "Cream Waterfall",
+        "enInstruction": "Pour 35ml half-and-half directly onto the top ice, watching the marble ribbons form.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 5,
+        "title": "點綴新鮮莓果",
+        "instruction": "在頂部冰塊上擺放 3 顆新鮮樹莓與一小簇翠綠薄荷葉，即可上桌拍照！",
+        "durationSec": 10,
+        "enTitle": "Garnish with Fresh Berries",
+        "enInstruction": "Top with 3 fresh raspberries and a fresh mint sprig.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "覆盆子糖漿搭配 1 泵香草糖漿是專業 Barista 的不傳之秘，香草中的香草醛能完美包裹野莓的果酸，提升入口順滑度。"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "Classic Ruby Berry Cremosa",
+    "enDescription": "Tart, aromatic wild red raspberries meet rich vanilla cream. Vibrant ruby red turns into velvet ribbons as pure cream cascades down, delivering bright fruitiness that never feels heavy.",
+    "enSecretTips": [
+      "Pro Barista Secret: Adding 1 pump of vanilla syrup softens the sharp berry acidity and wraps the palate in smooth sweetness."
+    ]
+  },
+  {
+    "id": "blood-orange-creamsicle",
+    "name": "西西里血橙奶霜蘇打",
+    "enName": "Blood Orange Creamsicle Soda",
+    "style": "意式柑橘島嶼度假風",
+    "category": "cremosa",
+    "difficulty": "medium",
+    "prepTimeMin": 3,
+    "rating": 4.88,
+    "storePriceUsd": 5.95,
+    "homeCostUsd": 0.75,
+    "caloriesEst": 140,
+    "description": "經典橘子雪糕 (Orange Creamsicle) 的意式蘇打化演繹。西西里血橙熱烈奔放的柑橘芳香，與頂部濃厚的香草奶霜完美互補，彷彿一口咬下夏日的香草橙雪糕。",
+    "bannerColor": "from-orange-500 via-amber-400 to-yellow-200",
+    "emoji": "🍊",
+    "image": "https://images.unsplash.com/photo-1621263764928-df1444c5e859?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "橙香濃郁",
+      "復古雪糕",
+      "西西里風情",
+      "大人小孩都愛"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani 血橙糖漿 (Blood Orange)",
+        "enName": "Blood Orange Syrup",
+        "baseAmount": 3.5,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Blood Orange Syrup 750ml"
+      },
+      {
+        "name": "Torani 香草糖漿",
+        "enName": "Vanilla Syrup",
+        "baseAmount": 0.5,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true
+      },
+      {
+        "name": "冷藏氣泡水",
+        "enName": "Club Soda",
+        "baseAmount": 260,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "Half-and-Half 鮮奶油",
+        "enName": "Half-and-Half",
+        "baseAmount": 30,
+        "unit": "ml",
+        "scalable": true,
+        "isCream": true
+      },
+      {
+        "name": "血橙 / 新鮮橙片",
+        "enName": "Orange Wheel",
+        "baseAmount": 1,
+        "unit": "slices",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "注糖漿與橙香打底",
+        "instruction": "在杯底加入血橙糖漿與香草糖漿，取一瓣新鮮橙皮輕輕對著杯口擠壓出柑橘精油香氣。",
+        "durationSec": 15,
+        "enTitle": "Citrus & Vanilla Base",
+        "enInstruction": "Add 3.5 pumps Blood Orange syrup and 0.5 pump Vanilla syrup. Express fresh orange peel over the glass rim.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "加冰與氣泡水",
+        "instruction": "滿杯冰塊，傾斜杯子注入冰氣泡水，微攪拌至金橘通透。",
+        "durationSec": 20,
+        "enTitle": "Ice & Carbonated Water",
+        "enInstruction": "Fill glass with ice, tilt and pour cold sparkling water, stir lightly until golden orange.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "浮頂注入奶霜",
+        "instruction": "透過吧勺背面輕輕倒上 30ml 鮮奶油，呈現橘白交織的雲朵層次。",
+        "durationSec": 15,
+        "enTitle": "Float Cream Layer",
+        "enInstruction": "Drizzle 30ml cream over the back of a bar spoon for a two-tone cloud float.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 4,
+        "title": "杯沿卡上鮮橙片",
+        "instruction": "杯口切口卡入一片帶皮血橙片即可享用。",
+        "durationSec": 10,
+        "enTitle": "Slot Fresh Orange Wheel",
+        "enInstruction": "Cut a notch in a fresh blood orange wheel and slot it onto the glass rim.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "杯口擠壓柑橘皮釋放的天然檸檬烯 (Limonene) 精油霧氣，能在一靠近杯口時就聞到令人神清氣爽的地中海果園氣息。"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "吧勺",
+      "壓頭"
+    ],
+    "enStyle": "Sicilian Citrus Creamsicle",
+    "enDescription": "The Italian Soda rendition of the iconic orange creamsicle! Energetic Sicilian blood orange citrus aromas paired with a thick vanilla cream float—tastes like a bite of frozen summer citrus gelato.",
+    "enSecretTips": [
+      "Expressing orange peel over the rim releases natural limonene citrus oils, giving an instant burst of Mediterranean orchard aroma on your first sip."
+    ]
+  },
+  {
+    "id": "strawberry-shortcake-cremosa",
+    "name": "草莓短蛋糕奶霜蘇打",
+    "enName": "Strawberry Shortcake Cremosa",
+    "style": "甜品系意式特調",
+    "category": "cremosa",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.96,
+    "storePriceUsd": 5.95,
+    "homeCostUsd": 0.7,
+    "caloriesEst": 160,
+    "description": "將法式甜點草莓短蛋糕解構裝進氣泡杯中！新鮮草莓糖漿與香甜烤杏仁/香草底蘊，頂部厚厚的雪白鮮奶油，每一口都是幸福甜美。",
+    "bannerColor": "from-red-400 via-pink-300 to-rose-100",
+    "emoji": "🍰",
+    "image": "https://images.unsplash.com/photo-1556881286-fc6915169721?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "甜點靈魂",
+      "草莓控必點",
+      "濃郁香甜",
+      "節慶派對"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani 草莓糖漿 (Strawberry)",
+        "enName": "Torani Strawberry Syrup",
+        "baseAmount": 3,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Strawberry Syrup 750ml"
+      },
+      {
+        "name": "Torani 香草糖漿",
+        "enName": "Vanilla Syrup",
+        "baseAmount": 1,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true
+      },
+      {
+        "name": "冰鎮氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 260,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "Half-and-Half 或淡奶油",
+        "enName": "Cream",
+        "baseAmount": 30,
+        "unit": "ml",
+        "scalable": true,
+        "isCream": true
+      },
+      {
+        "name": "新鮮草莓切半",
+        "enName": "Fresh Strawberry",
+        "baseAmount": 2,
+        "unit": "piece",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "草莓與香草雙糖漿",
+        "instruction": "杯底打入 3 泵草莓糖漿與 1 泵香草糖漿。",
+        "durationSec": 10,
+        "enTitle": "Strawberry & Vanilla Syrup",
+        "enInstruction": "Pump 3 pumps Strawberry syrup and 1 pump Vanilla syrup into the glass.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "加冰注水",
+        "instruction": "碎冰填滿八分，倒入冰氣泡水並快速攪勻成粉紅寶石色。",
+        "durationSec": 20,
+        "enTitle": "Ice, Soda & Stir",
+        "enInstruction": "Fill with crushed ice, pour cold soda, and stir until pastel pink.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "倒入鮮奶油並加雪頂",
+        "instruction": "頂部倒入 30ml 鮮奶油，再額外擠上一座高高的鮮打奶油山，擺上半顆新鮮草莓。",
+        "durationSec": 20,
+        "enTitle": "Cream & Whipped Peak",
+        "enInstruction": "Pour 30ml cream, then top with a generous swirl of whipped cream and half a fresh strawberry.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "若想要烘焙短蛋糕的黃油香氣，可額外加半泵 Torani 英國太妃 (English Toffee) 或短酥餅糖漿！"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "奶油噴槍",
+      "吧勺"
+    ],
+    "enStyle": "Dessert-Style Italian Soda",
+    "enDescription": "Deconstructed strawberry shortcake in a bubbly glass! Sweet ripe strawberry syrup with a touch of vanilla warmth, topped with a tall snowy peak of whipped cream and fresh strawberries.",
+    "enSecretTips": [
+      "For a buttery bakery aroma, add a half pump of Torani English Toffee or Shortbread syrup!"
+    ]
+  },
+  {
+    "id": "blueberry-cloud-float",
+    "name": "藍莓黑加侖雪融蘇打",
+    "enName": "Blueberry Blackcurrant Cloud Float",
+    "style": "北歐森林夢幻特調",
+    "category": "cremosa",
+    "difficulty": "medium",
+    "prepTimeMin": 4,
+    "rating": 4.91,
+    "storePriceUsd": 5.95,
+    "homeCostUsd": 0.72,
+    "caloriesEst": 150,
+    "description": "深紫色藍莓與黑加侖深邃漿果的幽香，搭配純白奶油在杯中如同星雲漫卷，清爽的氣泡帶來森林漿果的奔放爆汁感。",
+    "bannerColor": "from-purple-600 via-indigo-400 to-purple-200",
+    "emoji": "🫐",
+    "image": "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "星空紫",
+      "抗氧化漿果",
+      "絲滑雪頂",
+      "高顏值"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani / Monin 藍莓糖漿",
+        "enName": "Blueberry Syrup",
+        "baseAmount": 4,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Blueberry Syrup 750ml"
+      },
+      {
+        "name": "冰鎮強烈氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 260,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "厚奶油 (Heavy Cream)",
+        "enName": "Heavy Cream",
+        "baseAmount": 30,
+        "unit": "ml",
+        "scalable": true,
+        "isCream": true
+      },
+      {
+        "name": "新鮮藍莓 (冷凍亦可)",
+        "enName": "Fresh Blueberries",
+        "baseAmount": 6,
+        "unit": "piece",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "藍莓糖漿入杯",
+        "instruction": "高球杯底壓入 4 泵純濃藍莓糖漿。",
+        "durationSec": 10,
+        "enTitle": "Blueberry Syrup Base",
+        "enInstruction": "Pump 4 pumps concentrated blueberry syrup into the highball glass.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "注冰放藍莓",
+        "instruction": "加入半杯冰塊，撒入 4 粒新鮮藍莓，再加滿冰塊夾住藍莓。",
+        "durationSec": 15,
+        "enTitle": "Layer Ice & Blueberries",
+        "enInstruction": "Add half a cup of ice, drop in 4 fresh blueberries, then fill to the top with ice.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "慢注氣泡水",
+        "instruction": "注入氣泡水至 8 分滿，輕輕抽拉混合成紫晶色。",
+        "durationSec": 20,
+        "enTitle": "Pour Sparkling Water",
+        "enInstruction": "Pour chilled sparkling water to 80% full and gently stir to create an amethyst purple base.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 4,
+        "title": "雪融雲朵注入",
+        "instruction": "將 30ml 厚奶油輕輕倒在浮冰表面，觀賞紫色與白色在冰晶間交織的雪融效果。",
+        "durationSec": 15,
+        "enTitle": "Pour Cream Cloud",
+        "enInstruction": "Pour 30ml heavy cream on top of the floating ice and watch the purple-white cloud melt downwards.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "冷凍藍莓可以充當天然冰球，既美觀又不會在融化時稀釋飲品濃度。"
+    ],
+    "equipmentNeeded": [
+      "高球柯林杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "Nordic Berry Dream Float",
+    "enDescription": "Deep violet blueberries and earthy blackcurrant notes swirling with velvety white cream like a cosmic nebula. Crisp carbonation releases bursts of forest berry sweetness.",
+    "enSecretTips": [
+      "Frozen blueberries work as natural ice balls that chill the drink without diluting flavor as they thaw."
+    ]
+  },
+  {
+    "id": "sicilian-blood-orange-spritz",
+    "name": "西西里血橙迷迭香氣泡特飲",
+    "enName": "Sicilian Blood Orange Rosemary Spritz",
+    "style": "西西里島陽光草本特調",
+    "category": "citrus-spritz",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.94,
+    "storePriceUsd": 5.5,
+    "homeCostUsd": 0.55,
+    "caloriesEst": 95,
+    "description": "西西里島熾熱陽光下的靈魂特調。無酒精版意式 Spritz，濃烈血橙的酸甜交織著新鮮迷迭香木質松香，海鹽微晶激發深層柑橘甜味，極致醒神消暑。",
+    "bannerColor": "from-red-500 via-orange-400 to-amber-200",
+    "emoji": "☀️",
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "意式Spritz",
+      "草本芳香",
+      "零酒精特調",
+      "醒神消暑"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani / Monin 血橙糖漿",
+        "enName": "Blood Orange Syrup",
+        "baseAmount": 4,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Blood Orange Syrup 750ml"
+      },
+      {
+        "name": "新鮮檸檬汁",
+        "enName": "Fresh Lemon Juice",
+        "baseAmount": 15,
+        "unit": "ml",
+        "scalable": true,
+        "note": "提鮮增添天然酸感",
+        "enNote": "Adds fresh natural acidity"
+      },
+      {
+        "name": "San Pellegrino 意大利聖培露氣泡礦泉水",
+        "enName": "San Pellegrino Sparkling Water",
+        "baseAmount": 280,
+        "unit": "ml",
+        "scalable": true,
+        "amazonSearchQuery": "San Pellegrino Sparkling Natural Mineral Water"
+      },
+      {
+        "name": "新鮮迷迭香枝",
+        "enName": "Fresh Rosemary Sprig",
+        "baseAmount": 1,
+        "unit": "sprig",
+        "scalable": false,
+        "note": "掌心拍打激發香氣",
+        "enNote": "Clap between palms to release aroma"
+      },
+      {
+        "name": "地中海海鹽晶",
+        "enName": "Mediterranean Sea Salt",
+        "baseAmount": 0.5,
+        "unit": "g",
+        "scalable": false,
+        "note": "一小撮撒於頂部",
+        "enNote": "Pinch sprinkled on top"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "拍打迷迭香",
+        "instruction": "將新鮮迷迭香放在雙手手掌間用力拍擊一次（Slap），破壞表面油腺釋放出撲鼻的草本松香。",
+        "durationSec": 10,
+        "tip": "拍擊比揉搓更能保留整枝迷迭香的高級挺括姿態。",
+        "enTitle": "Slap Rosemary",
+        "enInstruction": "Slap a fresh rosemary sprig firmly between your palms to rupture essential oil glands.",
+        "enTip": "Slapping releases intense aroma without bruising the stem."
+      },
+      {
+        "stepNumber": 2,
+        "title": "糖漿與鮮檸打底",
+        "instruction": "杯中注入 4 泵血橙糖漿與 15ml 現擠檸檬汁。",
+        "durationSec": 15,
+        "enTitle": "Syrup & Fresh Lemon",
+        "enInstruction": "Add 4 pumps blood orange syrup and 15ml fresh lemon juice into the glass.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "加冰並立入迷迭香",
+        "instruction": "加滿大方冰塊，將迷迭香枝直挺挺地插在冰塊與杯壁之間。",
+        "durationSec": 15,
+        "enTitle": "Ice & Insert Rosemary",
+        "enInstruction": "Fill with ice cubes and stand the rosemary sprig upright against the glass wall.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 4,
+        "title": "注水與海鹽點睛",
+        "instruction": "注入冰鎮聖培露氣泡水至滿，頂部灑上一小撮研磨海鹽，稍微攪動一次即可飲用。",
+        "durationSec": 15,
+        "enTitle": "Pour Soda & Add Sea Salt",
+        "enInstruction": "Top with chilled San Pellegrino sparkling water, sprinkle sea salt on top, and give one gentle stir.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "微量海鹽（0.5g）不僅不會變鹹，反而能抑制柑橘微澀，並在舌尖放大水果糖分的甘美度，這就是意大利南部沿海調飲的千年秘訣。"
+    ],
+    "equipmentNeeded": [
+      "高球杯或大肚葡萄酒杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "Sicilian Sun-Drenched Botanical",
+    "enDescription": "The spirit of Sicily under Mediterranean sun! A zero-alcohol Italian Spritz combining bold blood orange citrus with aromatic pine notes of fresh rosemary and sea salt microcrystals.",
+    "enSecretTips": [
+      "A pinch of sea salt (0.5g) suppresses citrus bitterness and magnifies sweet fruit notes on the palate—a southern Italian mixology secret."
+    ]
+  },
+  {
+    "id": "amalfi-lemon-fizz",
+    "name": "阿馬爾菲檸檬冰爽蘇打",
+    "enName": "Amalfi Lemonade Fizz (Limoncello Style)",
+    "style": "阿馬爾菲海岸傳奇檸檬風味",
+    "category": "citrus-spritz",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.93,
+    "storePriceUsd": 5.25,
+    "homeCostUsd": 0.5,
+    "caloriesEst": 90,
+    "description": "阿馬爾菲懸崖檸檬園的清冽海風！還原意大利國寶檸檬酒 (Limoncello) 經典風味的無酒精蘇打。檸檬皮精油與高酸度天然檸檬汁交融，極具衝擊力的爽脆氣泡。",
+    "bannerColor": "from-yellow-400 via-amber-300 to-lime-100",
+    "emoji": "🍋",
+    "image": "https://images.unsplash.com/photo-1523371067-1ac963860da8?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "極致酸爽",
+      "意式檸檬酒風味",
+      "解膩第一名",
+      "夏日首選"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Monin / Torani 檸檬風味糖漿",
+        "enName": "Lemon Syrup",
+        "baseAmount": 3,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Monin Lemon Syrup 750ml"
+      },
+      {
+        "name": "新鮮現榨黃檸檬汁",
+        "enName": "Fresh Lemon Juice",
+        "baseAmount": 20,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "冰鎮強烈氣泡水",
+        "enName": "Chilled Sparkling Water",
+        "baseAmount": 280,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "黃檸檬厚片",
+        "enName": "Lemon Wheel",
+        "baseAmount": 2,
+        "unit": "slices",
+        "scalable": false
+      },
+      {
+        "name": "新鮮薄荷頂芽",
+        "enName": "Fresh Mint Top",
+        "baseAmount": 1,
+        "unit": "sprig",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "現壓檸檬與糖漿調和",
+        "instruction": "杯底加入 3 泵檸檬糖漿與 20ml 現榨檸檬汁，將一片黃檸檬用吧勺稍加碾壓釋出皮油。",
+        "durationSec": 20,
+        "enTitle": "Muddle Lemon & Syrup",
+        "enInstruction": "Add 3 pumps lemon syrup, 20ml fresh lemon juice, and muddle a lemon wheel lightly.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "注冰加氣泡水",
+        "instruction": "加滿純淨冰塊，緩緩注入冰氣泡水至滿杯。",
+        "durationSec": 20,
+        "enTitle": "Ice & Sparkling Soda",
+        "enInstruction": "Fill with pure ice cubes and slowly pour chilled sparkling water to the top.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "飾以薄荷與檸檬片",
+        "instruction": "插入另一片黃檸檬與一簇薄荷葉裝飾。",
+        "durationSec": 10,
+        "enTitle": "Garnish with Mint & Lemon",
+        "enInstruction": "Crown with another fresh lemon wheel and a vibrant sprig of fresh mint.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "黃檸檬（Eureka或阿馬爾菲檸檬）香氣比青檸更溫柔多汁，碾壓果皮時注意只壓黃色油胞層，不要過度擠壓白色海綿層，以防苦澀。"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "壓汁器",
+      "吧勺"
+    ],
+    "enStyle": "Amalfi Coastal Limoncello Style",
+    "enDescription": "Breezy sea winds along the Amalfi lemon cliffs! A non-alcoholic Italian soda capturing the soul of Limoncello. High-voltage lemon zest, real lemon juice, and effervescent bubbles.",
+    "enSecretTips": [
+      "Yellow Amalfi or Eureka lemons have sweeter aromatic oils than green limes. Press only the outer peel to avoid bitter white pith."
+    ]
+  },
+  {
+    "id": "pink-grapefruit-sea-salt",
+    "name": "粉紅葡萄柚海鹽氣泡飲",
+    "enName": "Pink Grapefruit Sea Salt Fizz",
+    "style": "摩登地中海微鹹果香特調",
+    "category": "citrus-spritz",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.89,
+    "storePriceUsd": 5.5,
+    "homeCostUsd": 0.58,
+    "caloriesEst": 90,
+    "description": "葡萄柚標誌性的紅寶石色澤與微苦清香，佐以一小撮海鹽抹邊，瞬間鎖住果香回甘。清爽無負擔，是追求小資精緻生活的人氣首選。",
+    "bannerColor": "from-rose-400 via-pink-300 to-amber-200",
+    "emoji": "🌸",
+    "image": "https://images.unsplash.com/photo-1536935338788-846bb9981813?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "粉紅少女",
+      "微苦回甘",
+      "海鹽抹邊",
+      "清爽低負擔"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani / Monin 紅西柚糖漿",
+        "enName": "Ruby Red Grapefruit Syrup",
+        "baseAmount": 4,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Ruby Red Grapefruit Syrup"
+      },
+      {
+        "name": "新鮮紅西柚汁",
+        "enName": "Fresh Grapefruit Juice",
+        "baseAmount": 30,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "天然氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 260,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "粗海鹽 / 鹽邊裝飾",
+        "enName": "Coarse Sea Salt for Rim",
+        "baseAmount": 1,
+        "unit": "g",
+        "scalable": false
+      },
+      {
+        "name": "紅西柚角",
+        "enName": "Grapefruit Wedge",
+        "baseAmount": 1,
+        "unit": "slices",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "海鹽半杯抹邊 (Half-Rim)",
+        "instruction": "用西柚片沿杯口外緣潤濕半圈，在鹽盤中輕蘸一下沾上細密海鹽晶體。",
+        "durationSec": 20,
+        "tip": "只抹半邊可以讓品飲者自由選擇喝鹽邊或無鹽邊，體驗不同層次。",
+        "enTitle": "Half-Rim Sea Salt",
+        "enInstruction": "Moisten half of the glass rim with a grapefruit slice, then dip into coarse sea salt.",
+        "enTip": "A half-rim lets the drinker choose salty or unsalted sips."
+      },
+      {
+        "stepNumber": 2,
+        "title": "糖漿與果汁調底",
+        "instruction": "在杯底加入 4 泵紅西柚糖漿與 30ml 鮮榨紅西柚汁。",
+        "durationSec": 15,
+        "enTitle": "Grapefruit Base",
+        "enInstruction": "Add 4 pumps red grapefruit syrup and 30ml fresh grapefruit juice.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "加冰與注水",
+        "instruction": "輕柔填滿冰塊，注入冷藏氣泡水至滿杯，輕攪兩次。",
+        "durationSec": 20,
+        "enTitle": "Ice, Soda & Stir",
+        "enInstruction": "Fill with ice, gently pour cold sparkling water to the top, and stir twice.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "紅西柚的微苦來自柚皮苷，海鹽中的鈉離子會迅速麻痹舌部苦味感受器，讓果香更甜更純淨。"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "鹽邊盤",
+      "吧勺"
+    ],
+    "enStyle": "Modern Mediterranean Paloma Style",
+    "enDescription": "Ruby grapefruit's signature blush hue and aromatic bittersweetness, accented with a fine sea-salt half-rim that locks in fruit sweetness. Crisp, sophisticated, and revitalizing.",
+    "enSecretTips": [
+      "Sodium in sea salt temporarily desensitizes bitter receptors on the tongue, allowing pure grapefruit sweetness to shine."
+    ]
+  },
+  {
+    "id": "bergamot-bitter-spritz",
+    "name": "佛手柑微苦草本氣泡 (Sanbittèr 風格)",
+    "enName": "Bergamot Bitter Spritz (Sanbittèr Style)",
+    "style": "意式開胃酒 Aperitivo 復刻風格",
+    "category": "citrus-spritz",
+    "difficulty": "medium",
+    "prepTimeMin": 3,
+    "rating": 4.86,
+    "storePriceUsd": 6.25,
+    "homeCostUsd": 0.85,
+    "caloriesEst": 85,
+    "description": "復刻意大利經典紅色開胃氣泡水 Sanbittèr 的迷人滋味！佛手柑柑橘、龍膽草與大黃苦甜草本香氣，深紅剔透，配上一大塊老冰與橄欖，是成人的精緻氣泡享受。",
+    "bannerColor": "from-red-600 via-rose-500 to-amber-300",
+    "emoji": "🍷",
+    "image": "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "意式Aperitivo",
+      "苦甜草本",
+      "高端大人味",
+      "餐前開胃"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Monin 意式苦味糖漿 (Italian Bitter Syrup) 或佛手柑糖漿",
+        "enName": "Italian Bitter / Bergamot Syrup",
+        "baseAmount": 4,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Monin Bitter Syrup 750ml"
+      },
+      {
+        "name": "天然氣泡水",
+        "enName": "Chilled Sparkling Water",
+        "baseAmount": 280,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "鮮橙皮扭結 (Orange Twist)",
+        "enName": "Orange Peel Twist",
+        "baseAmount": 1,
+        "unit": "piece",
+        "scalable": false
+      },
+      {
+        "name": "綠橄欖 (Green Cerignola Olive)",
+        "enName": "Italian Green Olive",
+        "baseAmount": 1,
+        "unit": "piece",
+        "scalable": false,
+        "note": "牙籤串起裝飾",
+        "enNote": "Skewered on toothpick garnish"
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "苦味草本底注入",
+        "instruction": "杯中壓入 4 泵苦味糖漿。",
+        "durationSec": 10,
+        "enTitle": "Bittersweet Base",
+        "enInstruction": "Pump 4 pumps Italian bitter or bergamot syrup into the glass.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "大方冰與注水",
+        "instruction": "放入 2-3 塊透明老冰塊，緩慢注入冰鎮聖培露氣泡水，攪拌均勻。",
+        "durationSec": 20,
+        "enTitle": "Rocks Ice & Soda",
+        "enInstruction": "Add large clear ice cubes, pour cold sparkling mineral water, and stir gently.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "橙皮噴香與橄欖點綴",
+        "instruction": "雙手扭轉鮮橙皮噴灑精油，投入杯中，放上一枚綠橄欖串。",
+        "durationSec": 15,
+        "enTitle": "Orange Twist & Olive",
+        "enInstruction": "Twist orange peel over the glass to express oils, drop inside, and garnish with a green Cerignola olive on a cocktail pick.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "苦甜平衡是意式調飲的最高境界，搭配一小碟堅果或意式風乾火腿片，在家即可體驗米蘭酒吧的歡聚時光。"
+    ],
+    "equipmentNeeded": [
+      "古典威士忌岩石杯或柯林杯",
+      "吧勺",
+      "果皮刀"
+    ],
+    "enStyle": "Italian Aperitivo Classic (Sanbittèr)",
+    "enDescription": "Replicating Italy's legendary ruby aperitivo soda! Bergamot citrus, gentian root, and bittersweet herbs over clear rocks with an orange twist and green olive—an adult Italian ritual.",
+    "enSecretTips": [
+      "Bittersweet balance is the crown jewel of Italian bar culture. Pair with roasted nuts or prosciutto for a true Milanese aperitivo."
+    ]
+  },
+  {
+    "id": "electric-blue-curacao",
+    "name": "電光藍柑夏威夷氣泡",
+    "enName": "Electric Blue Curaçao Ocean Fizz",
+    "style": "加勒比海夢幻蔚藍特調",
+    "category": "fruit-berry",
+    "difficulty": "medium",
+    "prepTimeMin": 4,
+    "rating": 4.97,
+    "storePriceUsd": 5.95,
+    "homeCostUsd": 0.6,
+    "caloriesEst": 110,
+    "description": "無酒精版海洋之星！純淨深邃的加勒比蔚藍色，散發著誘人的柑橘橙皮果香，搭配清爽檸檬酸度與激爽氣泡，在碎冰中折射出令人驚嘆的霓虹光彩。",
+    "bannerColor": "from-blue-600 via-sky-400 to-cyan-200",
+    "emoji": "🌊",
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "網紅爆款",
+      "海洋蔚藍",
+      "電光光澤",
+      "拍照神品"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Monin 莫林藍柑糖漿 (Blue Curaçao)",
+        "enName": "Monin Blue Curacao Syrup",
+        "baseAmount": 3.5,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Monin Blue Curacao Syrup 750ml"
+      },
+      {
+        "name": "新鮮青檸汁",
+        "enName": "Fresh Lime Juice",
+        "baseAmount": 15,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "冰鎮天然氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 270,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "青檸圓片",
+        "enName": "Lime Wheel",
+        "baseAmount": 2,
+        "unit": "slices",
+        "scalable": false
+      },
+      {
+        "name": "紅櫻桃",
+        "enName": "Maraschino Cherry",
+        "baseAmount": 1,
+        "unit": "cherries",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "藍柑糖漿打底",
+        "instruction": "杯底精準壓入 3.5 泵純藍柑糖漿與 15ml 青檸汁。",
+        "durationSec": 15,
+        "enTitle": "Blue Curacao Base",
+        "enInstruction": "Pump 3.5 pumps Blue Curaçao syrup and 15ml fresh lime juice into the glass.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "緊貼杯壁放青檸片",
+        "instruction": "將青檸片貼在杯身兩側，倒入八分滿碎冰固定。",
+        "durationSec": 15,
+        "enTitle": "Lime Wheels & Crushed Ice",
+        "enInstruction": "Press lime wheels against the inside wall and pack with crushed ice to secure them.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "注水與分層拉花",
+        "instruction": "沿杯壁極慢注入冰氣泡水，營造出底部深海蔚藍、頂部淺藍冰川的漸層效果！",
+        "durationSec": 20,
+        "enTitle": "Slow Pour for Gradient",
+        "enInstruction": "Slowly pour cold soda down the glass wall for a deep blue to icy cyan gradient.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 4,
+        "title": "櫻桃點睛",
+        "instruction": "頂部放置一顆鮮紅黑櫻桃，形成強烈紅藍對撞視覺效果。",
+        "durationSec": 10,
+        "enTitle": "Garnish with Cherry",
+        "enInstruction": "Place a glossy red Maraschino cherry on top for an eye-catching blue-red contrast.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "如果不攪拌直接喝，頂層是清新檸檬氣泡，越到底層柑橘甜味越濃；拍照後用吸管抽動攪勻則通體呈現迷人透明海島藍。"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "Caribbean Ocean Electric Fizz",
+    "enDescription": "A non-alcoholic Ocean Star! Striking Caribbean cyan blue, sweet citrus orange peel aroma, crisp lime acidity, and dancing bubbles reflecting neon hues through crushed ice.",
+    "enSecretTips": [
+      "If sipping with a straw, the top is crisp lime and bottom is sweet orange. Stirring creates a uniform tropical ocean blue."
+    ]
+  },
+  {
+    "id": "passion-fruit-mango-sparkler",
+    "name": "盛夏百香芒芒氣泡特調",
+    "enName": "Passion Fruit Mango Sparkler",
+    "style": "熱帶島嶼熱情風味",
+    "category": "fruit-berry",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.93,
+    "storePriceUsd": 5.85,
+    "homeCostUsd": 0.68,
+    "caloriesEst": 120,
+    "description": "熱帶黃金雙果強強聯手！熟透芒果的綿軟甘甜包裹著新鮮百香果的清亮果酸，每吸一口都有濃濃果香伴隨強勁氣泡在口中雀躍。",
+    "bannerColor": "from-amber-500 via-orange-400 to-yellow-200",
+    "emoji": "🥭",
+    "image": "https://images.unsplash.com/photo-1546173159-315724a31696?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "熱帶果香",
+      "百香果籽",
+      "酸甜開胃",
+      "夏日必喝"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani 百香果糖漿 (Passion Fruit)",
+        "enName": "Passion Fruit Syrup",
+        "baseAmount": 2.5,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Passion Fruit Syrup 750ml"
+      },
+      {
+        "name": "Torani 芒果糖漿 (Mango)",
+        "enName": "Mango Syrup",
+        "baseAmount": 1.5,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true
+      },
+      {
+        "name": "新鮮百香果果肉 (含籽)",
+        "enName": "Fresh Passion Fruit Pulp",
+        "baseAmount": 1,
+        "unit": "tbsp",
+        "scalable": false
+      },
+      {
+        "name": "冰鎮氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 260,
+        "unit": "ml",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "雙果糖漿與新鮮果肉",
+        "instruction": "杯中注入百香果糖漿與芒果糖漿，挖入一勺帶籽的新鮮百香果泥。",
+        "durationSec": 20,
+        "enTitle": "Tropical Fruit Puree Base",
+        "enInstruction": "Add 2.5 pumps Passion Fruit syrup, 1.5 pumps Mango syrup, and 1 tbsp seeded passion fruit pulp.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "加冰注水",
+        "instruction": "加滿碎冰，緩慢倒入冰鎮氣泡水並攪動，讓黑色百香果籽如繁星般均勻懸浮。",
+        "durationSec": 25,
+        "enTitle": "Ice, Soda & Stir",
+        "enInstruction": "Fill with crushed ice, slowly pour sparkling water, and stir to distribute the black seeds evenly.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "加入一勺帶籽真果肉能大幅提升整杯飲品的「現調手作感」，咀嚼時香脆的果籽更是口感亮點！"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "Tropical Island Passion Sparkler",
+    "enDescription": "A power duo of ripe mango sweetness and tangy passion fruit! Every sip brings explosive tropical perfume and crunchy edible seeds floating in vibrant bubbles.",
+    "enSecretTips": [
+      "Adding a spoonful of real seeded passion fruit pulp dramatically boosts authentic handcrafted mouthfeel!"
+    ]
+  },
+  {
+    "id": "lime-mint-italian-mojito",
+    "name": "綠野青檸薄荷蘇打 (意式無酒精莫吉托)",
+    "enName": "Lime Mint Italian Virgin Mojito",
+    "style": "經典薄荷青檸清涼特調",
+    "category": "fruit-berry",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.9,
+    "storePriceUsd": 5.25,
+    "homeCostUsd": 0.45,
+    "caloriesEst": 80,
+    "description": "無酒精莫吉托的意式清涼版！綠薄荷葉的穿透性涼感與青檸精油在杯中被徹底釋放，純淨的氣泡水洗滌一身疲憊，是夏日戶外運動後的救贖。",
+    "bannerColor": "from-emerald-500 via-green-400 to-lime-200",
+    "emoji": "🌿",
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "極限冰涼",
+      "薄荷青檸",
+      "無酒精莫吉托",
+      "低卡健康"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani 青檸/純蔗糖糖漿 (Lime / Pure Cane)",
+        "enName": "Lime or Cane Sugar Syrup",
+        "baseAmount": 3.5,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Lime Syrup 750ml"
+      },
+      {
+        "name": "新鮮青檸角 (切四瓣)",
+        "enName": "Fresh Lime Wedges",
+        "baseAmount": 4,
+        "unit": "piece",
+        "scalable": false
+      },
+      {
+        "name": "新鮮薄荷葉",
+        "enName": "Fresh Mint Leaves",
+        "baseAmount": 8,
+        "unit": "piece",
+        "scalable": false
+      },
+      {
+        "name": "冰鎮強氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 270,
+        "unit": "ml",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "輕壓薄荷與青檸",
+        "instruction": "杯底放入青檸角與薄荷葉，用木質壓汁棒輕柔按壓 4-5 次擠出汁液與精油（切勿搗爛薄荷產生草腥味）。",
+        "durationSec": 20,
+        "enTitle": "Gently Press Mint & Lime",
+        "enInstruction": "Place lime wedges and mint leaves in glass. Press gently 4-5 times with a wooden muddler.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "注糖漿與碎冰",
+        "instruction": "壓入青檸糖漿，加滿碎冰。",
+        "durationSec": 15,
+        "enTitle": "Syrup & Crushed Ice",
+        "enInstruction": "Add 3.5 pumps lime or cane syrup and pack glass with crushed ice.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "注水大翻攪",
+        "instruction": "注入冰鎮氣泡水，用長柄吧勺由底向上用力抽拉 3 次，使綠葉與青檸在冰晶中均勻分佈。",
+        "durationSec": 20,
+        "enTitle": "Pour Soda & Lift Stir",
+        "enInstruction": "Pour cold soda and lift the bar spoon from bottom to top 3 times to distribute mint evenly.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "薄荷葉千千萬萬不要用大力搗成碎末！只壓出香氣即可，否則葉綠素受損會釋放出苦澀的割草味。"
+    ],
+    "equipmentNeeded": [
+      "壓汁棒 (Muddler)",
+      "高球杯",
+      "吧勺"
+    ],
+    "enStyle": "Classic Mint & Lime Virgin Refresher",
+    "enDescription": "The refreshing Italian version of a virgin mojito! Spearmint coolness and fresh lime oils crushed in sparkling soda, washing away heat with crisp effervescence.",
+    "enSecretTips": [
+      "Never violently shred mint leaves! Press gently to extract aromatics; tearing releases bitter chlorophyll."
+    ]
+  },
+  {
+    "id": "blackberry-lavender-sunrise",
+    "name": "黑莓晨光漸層氣泡飲",
+    "enName": "Blackberry Lavender Sunrise",
+    "style": "日落暮色雙層漸變",
+    "category": "fruit-berry",
+    "difficulty": "medium",
+    "prepTimeMin": 4,
+    "rating": 4.94,
+    "storePriceUsd": 5.95,
+    "homeCostUsd": 0.65,
+    "caloriesEst": 115,
+    "description": "如晨曦初升的雙色漸層！底部是成熟黑莓深邃濃艷的野性漿果紅，頂部是甜橙與檸檬的清透金黃，微酸甘醇，視覺與味覺的雙重饗宴。",
+    "bannerColor": "from-purple-800 via-rose-500 to-amber-300",
+    "emoji": "🌅",
+    "image": "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "雙色漸層",
+      "黑莓野果",
+      "暮色日出",
+      "派對焦點"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani 黑莓糖漿 (Blackberry)",
+        "enName": "Torani Blackberry Syrup",
+        "baseAmount": 3,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Blackberry Syrup 750ml"
+      },
+      {
+        "name": "新鮮鮮榨柳橙汁",
+        "enName": "Fresh Orange Juice",
+        "baseAmount": 60,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "冰鎮氣泡水",
+        "enName": "Club Soda",
+        "baseAmount": 220,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "新鮮黑莓 / 迷迭香",
+        "enName": "Fresh Blackberries",
+        "baseAmount": 2,
+        "unit": "piece",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "黑莓重糖漿沉底",
+        "instruction": "黑莓糖漿 3 泵直接壓在杯底。",
+        "durationSec": 10,
+        "enTitle": "Dense Blackberry Base",
+        "enInstruction": "Pump 3 pumps blackberry syrup directly into the bottom.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "滿杯碎冰屏障",
+        "instruction": "將碎冰填至杯口，形成密集的物理密度阻隔層。",
+        "durationSec": 15,
+        "enTitle": "Pack Crushed Ice",
+        "enInstruction": "Fill with crushed ice right to the rim, creating a physical density barrier.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "注氣泡水至七分滿",
+        "instruction": "沿杯壁輕注氣泡水，微攪拌下半部使黑莓融入下層。",
+        "durationSec": 15,
+        "enTitle": "Pour Soda to 70% Full",
+        "enInstruction": "Gently pour sparkling water down the wall and lightly stir only the bottom half.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 4,
+        "title": "頂層浮注鮮柳橙汁",
+        "instruction": "透過吧勺背面，將 60ml 鮮橙汁極其緩慢地浮倒在最頂部，達成絕美的紫紅到金黃漸變！",
+        "durationSec": 20,
+        "enTitle": "Float Fresh Orange Juice",
+        "enInstruction": "Drizzle 60ml fresh orange juice over the back of a bar spoon onto the top ice for a dual-tone sunrise!",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "比重原理：高糖漿比重大於氣泡水，橙汁比重介於二者之間。只要有緊湊碎冰緩衝並用吧勺引流，任何人都能調出專業漸層！"
+    ],
+    "equipmentNeeded": [
+      "高球柯林杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "Twilight Sunset Two-Tone Gradient",
+    "enDescription": "A sunrise in a glass! Deep, wild purple blackberry syrup anchored at the bottom with bright golden fresh orange juice floating on top, divided by glistening crushed ice.",
+    "enSecretTips": [
+      "Density physics: High-sugar syrup has higher specific gravity than soda, while fresh orange juice floats naturally over dense crushed ice."
+    ]
+  },
+  {
+    "id": "ruby-pomegranate-grenadine",
+    "name": "紅寶石石榴氣泡特調",
+    "enName": "Ruby Pomegranate Grenadine Spritz",
+    "style": "經典石榴糖漿紅寶石特飲",
+    "category": "fruit-berry",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.88,
+    "storePriceUsd": 5.25,
+    "homeCostUsd": 0.52,
+    "caloriesEst": 105,
+    "description": "經典紅石榴糖漿 (Grenadine) 的純淨演繹。如同盛滿紅寶石的水晶杯，石榴的明麗深邃與氣泡水的跳躍感交織，佐以青檸片，清爽甘甜回味悠長。",
+    "bannerColor": "from-red-600 via-rose-500 to-red-300",
+    "emoji": "💎",
+    "image": "https://images.unsplash.com/photo-1556881286-fc6915169721?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "紅寶石光芒",
+      "石榴香甜",
+      "老派復古",
+      "全家喜愛"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani 石榴糖漿 (Pomegranate / Grenadine)",
+        "enName": "Pomegranate Syrup",
+        "baseAmount": 4,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Pomegranate Syrup 750ml"
+      },
+      {
+        "name": "新鮮青檸汁",
+        "enName": "Lime Juice",
+        "baseAmount": 10,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "冰鎮氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 280,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "青檸片與櫻桃",
+        "enName": "Lime Wheel & Cherry",
+        "baseAmount": 1,
+        "unit": "piece",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "石榴糖漿入杯",
+        "instruction": "杯中注入 4 泵紅石榴糖漿與 10ml 青檸汁。",
+        "durationSec": 10,
+        "enTitle": "Pomegranate & Lime",
+        "enInstruction": "Add 4 pumps pomegranate syrup and 10ml fresh lime juice.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "加冰注水調勻",
+        "instruction": "滿杯冰塊，注入冰氣泡水並優雅攪勻，整杯透出晶瑩剔透的石榴紅。",
+        "durationSec": 20,
+        "enTitle": "Ice, Soda & Stir",
+        "enInstruction": "Fill with ice cubes, pour cold sparkling water, and stir until brilliant crystal ruby red.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "真石榴糖漿（Pomegranate）比普通人工色素紅石榴水更加深邃帶有微澀單寧感，搭配青檸汁更是絕配。"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "吧勺"
+    ],
+    "enStyle": "Classic Grenadine Ruby Spritz",
+    "enDescription": "Pure vintage elegance. Glowing like cut rubies in crystal, rich pomegranate grenadine meets lively soda bubbles and fresh lime for a crisp, timeless thirst-quencher.",
+    "enSecretTips": [
+      "Real pomegranate syrup offers deeper, complex fruit tannins than artificial red sugar dye."
+    ]
+  },
+  {
+    "id": "elderflower-green-grape",
+    "name": "法國接骨木花青提氣泡",
+    "enName": "Elderflower Green Grape Sparkler",
+    "style": "歐陸貴族花香特調",
+    "category": "botanical",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.96,
+    "storePriceUsd": 6.25,
+    "homeCostUsd": 0.7,
+    "caloriesEst": 95,
+    "description": "米其林餐廳首選的草本花香氣泡！法國接骨木花 (Elderflower) 獨特的白花香氣，宛如荔枝與麝香葡萄在舌尖綻放。搭配爽脆的陽光玫瑰青提，高雅清幽。",
+    "bannerColor": "from-emerald-400 via-lime-300 to-yellow-100",
+    "emoji": "🍇",
+    "image": "https://images.unsplash.com/photo-1523371067-1ac963860da8?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "貴婦下午茶",
+      "接骨木白花",
+      "青提果香",
+      "優雅高級"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Monin 接骨木花糖漿 (Elderflower)",
+        "enName": "Monin Elderflower Syrup",
+        "baseAmount": 3.5,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Monin Elderflower Syrup 750ml"
+      },
+      {
+        "name": "新鮮白葡萄汁 / 青檸汁",
+        "enName": "White Grape or Lime Juice",
+        "baseAmount": 20,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "San Pellegrino 天然氣泡水",
+        "enName": "San Pellegrino Sparkling Water",
+        "baseAmount": 270,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "無籽綠提子 (對半切開)",
+        "enName": "Green Seedless Grapes",
+        "baseAmount": 4,
+        "unit": "piece",
+        "scalable": false
+      },
+      {
+        "name": "新鮮薄荷葉",
+        "enName": "Fresh Mint",
+        "baseAmount": 1,
+        "unit": "sprig",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "花香糖漿打底",
+        "instruction": "杯底壓入 3.5 泵接骨木花糖漿與青檸汁。",
+        "durationSec": 15,
+        "enTitle": "Elderflower Floral Base",
+        "enInstruction": "Add 3.5 pumps elderflower syrup and 20ml white grape or lime juice.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "投入青提與冰塊",
+        "instruction": "將切半的綠提子放入杯中，加滿透明純淨冰塊。",
+        "durationSec": 15,
+        "enTitle": "Halved Grapes & Ice",
+        "enInstruction": "Add halved seedless green grapes, then fill glass with crystal clear ice.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "慢注入氣泡水",
+        "instruction": "注入冰鎮聖培露氣泡水，輕輕提拉吧勺，點綴薄荷葉即可！",
+        "durationSec": 20,
+        "enTitle": "Pour Soda & Garnish",
+        "enInstruction": "Pour cold San Pellegrino sparkling water, lift bar spoon gently, and crown with fresh mint.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "接骨木花的香氣分子極易揮發，氣泡水水溫越低，香氣在口中綻放得越持久震撼。"
+    ],
+    "equipmentNeeded": [
+      "高球柯林杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "European Bistro Botanical",
+    "enDescription": "The star botanical spritz of European bistros. French elderflower brings delicate notes of lychee and muscat grape, paired with crisp halved green seedless grapes.",
+    "enSecretTips": [
+      "Elderflower aroma compounds are delicate and volatile. The colder your sparkling water, the longer the floral bouquet lingers."
+    ]
+  },
+  {
+    "id": "provence-lavender-lemonade",
+    "name": "普羅旺斯薰衣草檸檬蘇打",
+    "enName": "Provence Lavender Lemonade Italian Soda",
+    "style": "南法薰衣草莊園風情",
+    "category": "botanical",
+    "difficulty": "medium",
+    "prepTimeMin": 4,
+    "rating": 4.91,
+    "storePriceUsd": 5.95,
+    "homeCostUsd": 0.65,
+    "caloriesEst": 90,
+    "description": "夢幻紫色療癒特飲。真正的普羅旺斯藍色薰衣草糖漿，散發著舒緩身心的草本芳香，與現榨檸檬汁的酸爽完美契合，一口喝下彷彿置身南法紫色花田。",
+    "bannerColor": "from-purple-500 via-indigo-300 to-pink-200",
+    "emoji": "🪻",
+    "image": "https://images.unsplash.com/photo-1536935338788-846bb9981813?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "夢幻淡紫",
+      "薰衣草療癒",
+      "草本花香",
+      "舒緩放鬆"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Monin / Torani 薰衣草糖漿 (Lavender)",
+        "enName": "Lavender Syrup",
+        "baseAmount": 3,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Monin Lavender Syrup 750ml"
+      },
+      {
+        "name": "新鮮黃檸檬汁",
+        "enName": "Fresh Lemon Juice",
+        "baseAmount": 20,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "冰鎮氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 270,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "乾薰衣草花枝 / 檸檬片",
+        "enName": "Dried Lavender Sprig & Lemon Wheel",
+        "baseAmount": 1,
+        "unit": "sprig",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "紫色糖漿與鮮檸調和",
+        "instruction": "杯中注入 3 泵薰衣草糖漿與 20ml 現榨檸檬汁。",
+        "durationSec": 15,
+        "enTitle": "Lavender & Fresh Lemon",
+        "enInstruction": "Add 3 pumps lavender syrup and 20ml fresh lemon juice.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "注冰加水",
+        "instruction": "加滿純淨冰塊，緩緩注入冰氣泡水至滿杯，用吧勺優雅攪勻呈現透明薰衣草紫。",
+        "durationSec": 20,
+        "enTitle": "Ice & Chilled Soda",
+        "enInstruction": "Fill with ice, slowly pour cold sparkling water, and stir until glowing pastel purple.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "花枝裝飾",
+        "instruction": "頂部卡上一片黃檸檬，插上一小束乾燥薰衣草花枝。",
+        "durationSec": 10,
+        "enTitle": "Floral Garnish",
+        "enInstruction": "Garnish with a lemon wheel and a sprig of dried French lavender.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "薰衣草的精油氣味較濃，3 泵（約 22ml）為黃金臨界點，過量容易產生肥皂水錯覺，檸檬汁的酸度能巧妙鎮住花香。"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "South of France Lavender Estate",
+    "enDescription": "A calming pastel violet wonder. Genuine Provence lavender syrup releases soothing floral aromas, balanced by the bright tartness of freshly squeezed lemon juice.",
+    "enSecretTips": [
+      "Lavender is potent: 3 pumps (approx. 22ml) is the golden sweet spot. Fresh lemon juice harmonizes floral notes cleanly."
+    ]
+  },
+  {
+    "id": "damask-rose-lychee-fizz",
+    "name": "大馬士革玫瑰荔枝氣泡飲",
+    "enName": "Damask Rose Lychee Garden Fizz",
+    "style": "浪漫宮廷花園特調",
+    "category": "botanical",
+    "difficulty": "easy",
+    "prepTimeMin": 3,
+    "rating": 4.95,
+    "storePriceUsd": 6.25,
+    "homeCostUsd": 0.75,
+    "caloriesEst": 100,
+    "description": "花果香氣的絕代雙驕！大馬士革玫瑰高貴柔美的花瓣香，與水嫩多汁的白荔枝果香渾然天成。杯底沉浮著晶瑩荔枝果肉，仙氣飄飄。",
+    "bannerColor": "from-rose-400 via-pink-300 to-rose-100",
+    "emoji": "🌹",
+    "image": "https://images.unsplash.com/photo-1546173159-315724a31696?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "仙氣飄飄",
+      "玫瑰荔枝",
+      "約會首選",
+      "浪漫花香"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Monin 玫瑰糖漿 (Rose)",
+        "enName": "Monin Rose Syrup",
+        "baseAmount": 2,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Monin Rose Syrup 750ml"
+      },
+      {
+        "name": "Torani / Monin 荔枝糖漿",
+        "enName": "Lychee Syrup",
+        "baseAmount": 2,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true
+      },
+      {
+        "name": "剝皮白荔枝肉 (罐頭或新鮮)",
+        "enName": "Peeled Lychees",
+        "baseAmount": 2,
+        "unit": "piece",
+        "scalable": false
+      },
+      {
+        "name": "冰鎮氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 270,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "食用可食乾燥玫瑰花瓣",
+        "enName": "Edible Dried Rose Petals",
+        "baseAmount": 1,
+        "unit": "tbsp",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "玫瑰荔枝拼配與放果肉",
+        "instruction": "杯底壓入 2 泵玫瑰糖漿與 2 泵荔枝糖漿，投入 2 顆飽滿雪白荔枝果肉。",
+        "durationSec": 20,
+        "enTitle": "Rose, Lychee & Fruit",
+        "enInstruction": "Add 2 pumps rose syrup, 2 pumps lychee syrup, and drop in 2 peeled whole white lychees.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "加冰注水",
+        "instruction": "放入冰塊，注入冰冷氣泡水並攪勻至透亮櫻粉色。",
+        "durationSec": 20,
+        "enTitle": "Ice & Sparkling Soda",
+        "enInstruction": "Fill with ice, pour cold sparkling water, and stir until translucent cherry blossom pink.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "撒上粉嫩玫瑰花瓣",
+        "instruction": "在杯頂冰塊上輕柔灑下幾瓣食用乾燥玫瑰花瓣。",
+        "durationSec": 10,
+        "enTitle": "Scatter Rose Petals",
+        "enInstruction": "Gently scatter edible dried organic rose petals across the top ice.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "玫瑰與荔枝共用相同的香氣芳香烴分子，二者結合是世界調香大師 Pierre Hermé（Ispahan）的標誌性配方。"
+    ],
+    "equipmentNeeded": [
+      "高球柯林杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "Romantic Royal Garden Floral",
+    "enDescription": "The timeless Ispahan floral harmony! Noble Damask rose petal aromas blended with succulent white lychee juice, floating with tender lychee fruit and dried rose petals.",
+    "enSecretTips": [
+      "Rose and lychee share identical aroma aromatic hydrocarbons, making them a match made in heaven."
+    ]
+  },
+  {
+    "id": "basil-watermelon-cooler",
+    "name": "羅勒西瓜夏日清泉",
+    "enName": "Basil Watermelon Italian Cooler",
+    "style": "托斯卡納農莊清甜特飲",
+    "category": "botanical",
+    "difficulty": "medium",
+    "prepTimeMin": 4,
+    "rating": 4.89,
+    "storePriceUsd": 5.75,
+    "homeCostUsd": 0.65,
+    "caloriesEst": 85,
+    "description": "托斯卡納夏日餐桌上的消暑奇蹟。鮮甜解渴的西瓜果香，融入意式甜羅勒 (Sweet Basil) 標誌性的胡椒丁香香氣，鹹甜微涼，一口降溫 5 度！",
+    "bannerColor": "from-red-500 via-rose-400 to-green-200",
+    "emoji": "🍉",
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "托斯卡納風",
+      "羅勒香草",
+      "西瓜解暑",
+      "獨特草本"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani 西瓜糖漿 (Watermelon)",
+        "enName": "Torani Watermelon Syrup",
+        "baseAmount": 3.5,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Watermelon Syrup 750ml"
+      },
+      {
+        "name": "新鮮意式甜羅勒葉",
+        "enName": "Fresh Italian Sweet Basil Leaves",
+        "baseAmount": 4,
+        "unit": "piece",
+        "scalable": false
+      },
+      {
+        "name": "新鮮青檸汁",
+        "enName": "Lime Juice",
+        "baseAmount": 15,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "冰鎮氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 270,
+        "unit": "ml",
+        "scalable": true
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "掌心拍打羅勒葉",
+        "instruction": "將 4 片意式甜羅勒放在手心拍打一次釋出精油，放入杯底。",
+        "durationSec": 15,
+        "enTitle": "Slap Fresh Sweet Basil",
+        "enInstruction": "Slap 4 sweet basil leaves between palms to awaken aromatic oils, then place in glass.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "注入糖漿與青檸汁",
+        "instruction": "壓入 3.5 泵西瓜糖漿與 15ml 青檸汁，用吧勺輕壓羅勒幾次。",
+        "durationSec": 15,
+        "enTitle": "Syrup & Lime Juice",
+        "enInstruction": "Add 3.5 pumps watermelon syrup and 15ml lime juice. Press basil lightly with spoon.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 3,
+        "title": "加冰注水調勻",
+        "instruction": "加入滿杯冰塊，注入冰冷氣泡水並攪動均勻，放一頂羅勒葉裝飾。",
+        "durationSec": 20,
+        "enTitle": "Ice, Soda & Stir",
+        "enInstruction": "Fill with ice, pour cold sparkling water, stir, and garnish with a basil leaf tip.",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "必須使用意式甜羅勒（Sweet Basil），切勿使用泰式九層塔，甜羅勒葉片柔嫩香氣溫和，才不會掩蓋西瓜的鮮甜。"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "吧勺"
+    ],
+    "enStyle": "Tuscan Farmhouse Summer Cooler",
+    "enDescription": "A summer picnic revelation from Tuscany! Crisp juicy watermelon meets sweet Italian basil with subtle clove and pepper notes—sweet, savory, and cooling.",
+    "enSecretTips": [
+      "Always use Italian Sweet Basil (not Thai holy basil); sweet basil is tender and complements sweet watermelon seamlessly."
+    ]
+  },
+  {
+    "id": "zero-sugar-white-peach",
+    "name": "零卡白桃茉莉氣泡水",
+    "enName": "Zero-Sugar White Peach Jasmine Sparkling",
+    "style": "生酮低碳 0 熱量特調",
+    "category": "zero-sugar",
+    "difficulty": "easy",
+    "prepTimeMin": 2,
+    "rating": 4.92,
+    "storePriceUsd": 5.25,
+    "homeCostUsd": 0.5,
+    "caloriesEst": 5,
+    "description": "減脂期與生酮人群的狂喜！採用 Torani 無糖白桃糖漿（0卡三氯蔗糖配方），保留了水蜜桃鮮甜多汁的風味，伴隨清冷茉莉茶香與綿密氣泡，0 負擔暢飲！",
+    "bannerColor": "from-pink-300 via-rose-200 to-sky-100",
+    "emoji": "✨",
+    "image": "https://images.unsplash.com/photo-1546173159-315724a31696?w=800&q=80&auto=format&fit=crop",
+    "tags": [
+      "0卡0糖",
+      "生酮低碳",
+      "減脂必備",
+      "蜜桃清甜"
+    ],
+    "baseCupSize": 475,
+    "ingredients": [
+      {
+        "name": "Torani Sugar Free 無糖白桃糖漿",
+        "enName": "Torani Sugar Free Peach Syrup",
+        "baseAmount": 4,
+        "unit": "pumps",
+        "scalable": true,
+        "isSweetener": true,
+        "amazonSearchQuery": "Torani Sugar Free Peach Syrup 750ml"
+      },
+      {
+        "name": "新鮮青檸汁",
+        "enName": "Lime Juice",
+        "baseAmount": 10,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "純淨強氣泡水",
+        "enName": "Sparkling Water",
+        "baseAmount": 280,
+        "unit": "ml",
+        "scalable": true
+      },
+      {
+        "name": "新鮮薄荷葉",
+        "enName": "Fresh Mint",
+        "baseAmount": 1,
+        "unit": "sprig",
+        "scalable": false
+      }
+    ],
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "壓入零卡糖漿",
+        "instruction": "杯底壓入 4 泵 Torani 無糖白桃糖漿與青檸汁。",
+        "durationSec": 10,
+        "enTitle": "Zero-Calorie Peach Syrup",
+        "enInstruction": "Pump 4 pumps Torani Sugar-Free White Peach syrup and 10ml fresh lime juice.",
+        "enTip": ""
+      },
+      {
+        "stepNumber": 2,
+        "title": "注冰滿杯氣泡水",
+        "instruction": "加滿碎冰，倒入冰鎮氣泡水，攪勻即可，整杯熱量小於 5 大卡！",
+        "durationSec": 15,
+        "enTitle": "Ice, Soda & Enjoy",
+        "enInstruction": "Fill with crushed ice, pour chilled sparkling water, stir well, and enjoy under 5 calories!",
+        "enTip": ""
+      }
+    ],
+    "secretTips": [
+      "三氯蔗糖 (Sucralose) 不參與人體糖代謝，不引起血糖波動，口感極度逼真且無後苦味。"
+    ],
+    "equipmentNeeded": [
+      "高球杯",
+      "吧勺",
+      "吸管"
+    ],
+    "enStyle": "Keto Low-Carb Zero-Sugar",
+    "enDescription": "Pure indulgence with zero guilt! Crafted with Torani Sugar-Free White Peach syrup (0 calories, 0 carbs), delivering juicy peach aroma and sparkling fizz with under 5 calories per glass.",
+    "enSecretTips": [
+      "Sucralose sweetener causes zero blood sugar spikes, tastes crisp and sweet, and has no bitter aftertaste."
+    ]
+  }
+]

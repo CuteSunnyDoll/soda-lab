@@ -1,0 +1,6 @@
+{
+  "appId": "com.sodalab.app",
+  "appName": "Soda Lab",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
