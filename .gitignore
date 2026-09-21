@@ -6,3 +6,6 @@ dist-ssr
 .env.*
 *.log
 .DS_Store
+*.jks
+*.keystore
+keystore.properties
