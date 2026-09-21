@@ -8,7 +8,7 @@ export default defineConfig({
     port: 3001,
     open: true,
     watch: {
-      ignored: ['**/android/**', '**/ios/**']
+      ignored: ['**/android/**', '**/ios/**', '**/release-builds/**', '**/*.aab', '**/*.apk']
     }
   }
 });

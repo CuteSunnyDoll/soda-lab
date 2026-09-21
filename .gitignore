@@ -9,3 +9,4 @@ dist-ssr
 *.jks
 *.keystore
 keystore.properties
+release-builds/
