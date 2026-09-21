@@ -30,8 +30,17 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="pt-6 border-t border-slate-100 dark:border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-400">
-          <div>
-            © {new Date().getFullYear()} Soda Lab DIY. All rights reserved.
+          <div className="flex items-center gap-2">
+            <span>© {new Date().getFullYear()} Soda Lab DIY. All rights reserved.</span>
+            <span>•</span>
+            <a
+              href="/privacy-policy.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sky-600 dark:text-sky-400 hover:underline font-medium"
+            >
+              Privacy Policy
+            </a>
           </div>
           <div className="flex items-center gap-1">
             <span>Crafted with</span>

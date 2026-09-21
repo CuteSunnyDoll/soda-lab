@@ -1,7 +1,7 @@
 {
-  "name": "Soda Lab - 意式蘇打特調工坊",
+  "name": "Soda Lab - Italian Soda & Cremosa Studio",
   "short_name": "Soda Lab",
-  "description": "在家調出 1:1 名店風味意式氣泡蘇打與雪頂奶霜",
+  "description": "Craft 1:1 café-grade Italian sodas, cremosas, and summer spritzes at home.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#F8FAFC",
