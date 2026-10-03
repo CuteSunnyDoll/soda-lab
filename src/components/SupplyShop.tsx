@@ -44,14 +44,9 @@ export const SupplyShop: React.FC<SupplyShopProps> = ({ trackingId }) => {
       </div>
 
       {/* Statutory Legal Disclaimer Banner */}
-      <div className="p-3.5 rounded-2xl bg-amber-50/70 dark:bg-amber-950/30 border border-amber-200/60 dark:border-amber-900/60 flex items-center justify-between text-xs text-amber-900/80 dark:text-amber-300/80">
-        <div className="flex items-center gap-2">
-          <ShieldCheck className="w-4 h-4 text-amber-600 flex-shrink-0" />
-          <span>{t('shop.disclaimer')}</span>
-        </div>
-        <span className="font-mono font-bold text-amber-700 dark:text-amber-400 text-[10px] hidden sm:inline-block">
-          Tag: {trackingId}
-        </span>
+      <div className="p-3.5 rounded-2xl bg-amber-50/70 dark:bg-amber-950/30 border border-amber-200/60 dark:border-amber-900/60 flex items-center gap-2 text-xs text-amber-900/80 dark:text-amber-300/80">
+        <ShieldCheck className="w-4 h-4 text-amber-600 flex-shrink-0" />
+        <span>{t('shop.disclaimer')}</span>
       </div>
 
       {/* Category Pills */}

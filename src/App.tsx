@@ -83,10 +83,8 @@ export function App() {
     }
   }, [selectedRecipe, lang, recipeTitle]);
 
-  // Persisted Financial & Cup Stats
-  const [trackingId, setTrackingId] = useState<string>(() => {
-    return localStorage.getItem('sodalab_amazon_tracking_id') || DEFAULT_AMAZON_TRACKING_ID;
-  });
+  // Developer Official Amazon Tracking ID (Locked for commission monetization)
+  const trackingId = DEFAULT_AMAZON_TRACKING_ID;
 
   const [totalSavedUsd, setTotalSavedUsd] = useState<number>(() => {
     const saved = localStorage.getItem('sodalab_total_saved_usd');
@@ -99,8 +97,8 @@ export function App() {
   });
 
   useEffect(() => {
-    localStorage.setItem('sodalab_amazon_tracking_id', trackingId);
-  }, [trackingId]);
+    localStorage.removeItem('sodalab_amazon_tracking_id');
+  }, []);
 
   useEffect(() => {
     localStorage.setItem('sodalab_total_saved_usd', totalSavedUsd.toString());
@@ -135,8 +133,6 @@ export function App() {
         setSelectedCategory={setSelectedCategory}
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
-        trackingId={trackingId}
-        setTrackingId={setTrackingId}
         totalSavedUsd={totalSavedUsd}
         dark={dark}
         onToggleTheme={toggleTheme}

@@ -5,7 +5,6 @@ import { SupportedLang } from '../i18n/ui';
 import { 
   Sparkles, 
   Search, 
-  Settings, 
   DollarSign, 
   BookOpen, 
   Calculator, 
@@ -24,8 +23,6 @@ interface NavbarProps {
   setSelectedCategory: (cat: SodaCategory) => void;
   searchQuery: string;
   setSearchQuery: (query: string) => void;
-  trackingId: string;
-  setTrackingId: (id: string) => void;
   totalSavedUsd: number;
   dark: boolean;
   onToggleTheme: () => void;
@@ -47,23 +44,12 @@ export const Navbar: React.FC<NavbarProps> = ({
   setSelectedCategory,
   searchQuery,
   setSearchQuery,
-  trackingId,
-  setTrackingId,
   totalSavedUsd,
   dark,
   onToggleTheme
 }) => {
   const { t, lang, setLang, languages } = useI18n();
-  const [showSettingsModal, setShowSettingsModal] = useState(false);
   const [showLangMenu, setShowLangMenu] = useState(false);
-  const [tempId, setTempId] = useState(trackingId);
-
-  const handleSaveTrackingId = () => {
-    if (tempId.trim()) {
-      setTrackingId(tempId.trim());
-    }
-    setShowSettingsModal(false);
-  };
 
   return (
     <header className="sticky top-0 z-40 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-b border-sky-100 dark:border-slate-800 transition-all">
@@ -164,18 +150,6 @@ export const Navbar: React.FC<NavbarProps> = ({
             >
               {dark ? <Sun className="w-5 h-5 text-amber-400" /> : <Moon className="w-5 h-5 text-slate-600" />}
             </button>
-
-            {/* Settings Button */}
-            <button
-              onClick={() => {
-                setTempId(trackingId);
-                setShowSettingsModal(true);
-              }}
-              className="p-2 rounded-xl text-slate-600 dark:text-slate-300 hover:bg-sky-50 dark:hover:bg-slate-800 transition-colors"
-              title={t('nav.settings')}
-            >
-              <Settings className="w-5 h-5" />
-            </button>
           </div>
         </div>
 
@@ -272,59 +246,6 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         )}
       </div>
-
-      {/* Settings Modal */}
-      {showSettingsModal && (
-        <div className="fixed inset-0 z-50 bg-black/50 backdrop-blur-sm flex items-center justify-center p-4">
-          <div className="bg-white dark:bg-slate-800 rounded-3xl max-w-md w-full p-6 shadow-2xl border border-sky-100 dark:border-slate-700 animate-in fade-in zoom-in-95 duration-200">
-            <div className="flex items-center justify-between pb-3 border-b border-slate-100 dark:border-slate-700">
-              <h3 className="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">
-                <Settings className="w-5 h-5 text-sky-600" />
-                <span>{t('settings.title')}</span>
-              </h3>
-              <button
-                onClick={() => setShowSettingsModal(false)}
-                className="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200"
-              >
-                <X className="w-5 h-5" />
-              </button>
-            </div>
-
-            <div className="mt-4 space-y-4">
-              <div>
-                <label className="block text-xs font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider mb-1">
-                  {t('settings.trackingIdLabel')}
-                </label>
-                <p className="text-xs text-slate-500 dark:text-slate-400 mb-2">
-                  {t('settings.trackingIdHint')}
-                </p>
-                <input
-                  type="text"
-                  value={tempId}
-                  onChange={(e) => setTempId(e.target.value)}
-                  placeholder="e.g. yourtag-20"
-                  className="w-full px-3.5 py-2.5 rounded-xl border border-slate-300 dark:border-slate-600 bg-slate-50 dark:bg-slate-900 text-sm font-mono text-slate-800 dark:text-slate-200 focus:outline-none focus:ring-2 focus:ring-sky-500"
-                />
-              </div>
-            </div>
-
-            <div className="mt-6 flex justify-end gap-3">
-              <button
-                onClick={() => setShowSettingsModal(false)}
-                className="px-4 py-2 rounded-xl text-sm font-semibold text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors"
-              >
-                {t('common.close')}
-              </button>
-              <button
-                onClick={handleSaveTrackingId}
-                className="px-5 py-2 rounded-xl text-sm font-semibold bg-sky-600 hover:bg-sky-700 text-white shadow-md transition-colors"
-              >
-                {t('settings.save')}
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
     </header>
   );
 };
